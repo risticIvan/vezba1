@@ -1,0 +1,38 @@
+[
+    {
+        "firstname": "John 1",
+        "lastname": "Smith 1",
+        "birthdate": "25.2.1998",
+        "email": "email1@gmail.com"
+    },
+    {
+        "firstname": "John 2",
+        "lastname": "Smith 2",
+        "birthdate": "12.5.1985",
+        "email": "email1@gmail.com"
+    },
+    {
+        "firstname": "John 3",
+        "lastname": "Smith 3",
+        "birthdate": "12.9.1962",
+        "email": "email3@gmail.com"
+    },
+    {
+        "firstname": "John 4",
+        "lastname": "Smith 4",
+        "birthdate": "12.2.1989",
+        "email": "email4@gmail.com"
+    },
+    {
+        "firstname": "John 5",
+        "lastname": "Smith 5",
+        "birthdate": "12.2.1980",
+        "email": "email5@gmail.com"
+    },
+    {
+        "firstname": "John 6",
+        "lastname": "Smith 6",
+        "birthdate": "12.2.1978",
+        "email": "email6@gmail.com"
+    }
+]
